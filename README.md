@@ -1,4 +1,7 @@
 
+## Unsupervised geometric-guided industrial anomaly detection
+
+![](docs/overview.png)
 
 ### Install
 
@@ -35,6 +38,9 @@ You can specify the following options:
    - `--quantitative_folder`: Folder on which the metrics are saved.
    - `--visualize_plot`: Flag to visualize qualitatived during inference.
    - `--produce_qualitatives`: Flag to save qualitatived during inference.
+
+### Result
+![](docs/result.png)
 
 ## Note
 

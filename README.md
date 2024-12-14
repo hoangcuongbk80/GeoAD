@@ -11,6 +11,8 @@ You should install all the necessary dependencies in the `./requirements.txt` fi
 
 Download: [MVTec 3D-AD](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad), then preprocess it with the script `preprocess_mvtec.py`.
 
+Download: [Synthetic Dataset (Simulation)](https://drive.google.com/file/d/1OCAKXPmpNrD9s3oUcQ--mhRZTt4HGJ-W/view), or using the scripts in blender-scripts to generate simulation data.
+
 ### Training
 
 To train the network refer to the example in `train.sh`
